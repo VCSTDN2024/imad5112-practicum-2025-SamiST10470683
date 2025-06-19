@@ -84,7 +84,7 @@ The workflow automatically builds and tests the project every time changes are p
 
 ## App Screenshots 
 
-The app source code:
+### The app source code:
 <img width="1371" alt="Screenshot 2025-06-19 at 1 32 27 PM" src="https://github.com/user-attachments/assets/fb6ef350-a644-4cea-969e-4ca47ea84a19" />
 <img width="1371" alt="Screenshot 2025-06-19 at 1 32 42 PM" src="https://github.com/user-attachments/assets/d379eb0f-dfec-4eca-be6a-44e2f6a56b19" />
 <img width="1371" alt="Screenshot 2025-06-19 at 1 32 52 PM" src="https://github.com/user-attachments/assets/7e7a1409-30f2-4c50-a8de-2a35350af0b7" />
@@ -92,13 +92,13 @@ The app source code:
 <img width="1371" alt="Screenshot 2025-06-19 at 1 33 08 PM" src="https://github.com/user-attachments/assets/88c84f48-f2f9-4c13-ae13-0d7007d54a6b" />
 <img width="1371" alt="Screenshot 2025-06-19 at 1 33 13 PM" src="https://github.com/user-attachments/assets/ccce8282-aedf-4fd2-b77a-4f730716a591" />
 
-The Main Screen:
+### The Main Screen:
 <img width="316" alt="Screenshot 2025-06-19 at 1 34 42 PM" src="https://github.com/user-attachments/assets/c9f72d9d-0602-4adc-8a62-18fea9c40f75" />
 
-The Detailed View Screen:
+### The Detailed View Screen:
 <img width="316" alt="Screenshot 2025-06-19 at 1 35 07 PM" src="https://github.com/user-attachments/assets/819fe1bc-d96d-4471-8f67-a4e7d989604f" />
 
-App running on the emulator in Android Studio:
+### App running on the emulator in Android Studio:
 <img width="426" alt="Screenshot 2025-06-19 at 1 35 49 PM" src="https://github.com/user-attachments/assets/c98b7cd2-189d-4b65-b38f-2a09a0273a73" />
 
 ## Challenges and Learnings 
