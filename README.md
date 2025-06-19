@@ -92,10 +92,10 @@ The workflow automatically builds and tests the project every time changes are p
 <img width="1371" alt="Screenshot 2025-06-19 at 1 33 08 PM" src="https://github.com/user-attachments/assets/88c84f48-f2f9-4c13-ae13-0d7007d54a6b" />
 <img width="1371" alt="Screenshot 2025-06-19 at 1 33 13 PM" src="https://github.com/user-attachments/assets/ccce8282-aedf-4fd2-b77a-4f730716a591" />
 
-### The Main Screen: **Here the user can input the songs they want in their playlist.**
+### The Main Screen: Here the user can input the songs they want in their playlist.
 <img width="316" alt="Screenshot 2025-06-19 at 1 35 07 PM" src="https://github.com/user-attachments/assets/3cc6ac24-d741-4154-92b5-9f148a4fac5c" />
 
-### The Detailed View Screen: **Here the app displays all the songs in the playlist.**
+### The Detailed View Screen: Here the app displays all the songs in the playlist.
 <img width="310" alt="Screenshot 2025-06-19 at 1 39 30 PM" src="https://github.com/user-attachments/assets/8f0053c9-dfe2-4bbe-b93e-dbb94519ff30" />
 
 ### App running on the emulator in Android Studio:
