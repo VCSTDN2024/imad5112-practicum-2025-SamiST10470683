@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ST10470683 Sami EL Naamani -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_list"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <!-- App name heading -->
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="200dp"
+        android:fontFamily="@font/poppins_semibold"
+        android:text="Playlist Manager"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="47dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Welcome message -->
+    <TextView
+        android:layout_width="360dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="350dp"
+        android:fontFamily="@font/poppins_light"
+        android:text="Welcome to the Playlist Manager!"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Brief app description -->
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="385dp"
+        android:fontFamily="@font/poppins_extralight"
+        android:text="Manage all your favourite songs into specialised playlists made just for you!"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to start app -->
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="235dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="495dp"
+        android:fontFamily="@font/poppins_extralight"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:backgroundTint="#25000000"
+        android:text="Start Managing!"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to exit app -->
+    <Button
+        android:id="@+id/exitBtn"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="582dp"
+        android:backgroundTint="#25000000"
+        android:fontFamily="@font/poppins_extralight"
+        android:text="Exit"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
