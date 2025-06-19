@@ -8,14 +8,13 @@
 - **Subject**: [IMAD5112]
 
 Links
-- **GitHub Repository**: []
-- **YouTube Video**: []
+- **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-practicum-2025-SamiST10470683.git]
 
 ---
 
 ### Project Overview
 
-The INSERT APP NAME HERE is a mobile application developed as part of a practicum assessment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**. The primary objective of the application is to INSERT APP OBJECTIVE HERE.
+The Playlist Manager is a mobile application developed as part of a practicum assessment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**. The primary objective of the application is to INSERT APP OBJECTIVE HERE.
 
 The app was developed to meet the requirements of the practicum, which includes creating a functional mobile app and utilising GitHub for version control and CI/CD automation using GitHub Actions.
 
