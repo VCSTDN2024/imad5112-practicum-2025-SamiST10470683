@@ -105,7 +105,7 @@ During the development of this project, I encountered several challenges, includ
 - **Learning**: This taught me the fundamentals of Git version control beyond the GUI, providing a deeper understanding of branches, commits, and remotes.
   
 
-**Challenge 2**: Debugging the initial code in the early days of the app due to an error in the Android Manifest 
+**Challenge 2**: Debugging the initial code due to an error in the Android Manifest 
 
 - **Solution**: Had to declare the activities: (android:name=""). 
 
