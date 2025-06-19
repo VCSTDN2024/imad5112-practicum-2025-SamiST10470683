@@ -1,6 +1,6 @@
 ## Basic Information 
 
-**Playlist Manager**
+### Playlist Manager
 
 **Developer**: [Sami EL Naamani] 
 
@@ -15,8 +15,7 @@
 ### Links 
 
 **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-practicum-2025-SamiST10470683.git] 
-
---- 
+ 
 
 ## Project Overview 
 
@@ -24,11 +23,11 @@ The Playlist Manager is a mobile application developed as part of a practicum as
 
 The app was developed to meet the requirements of the practicum, which includes creating a functional mobile app and utilising GitHub for version control and CI/CD automation using GitHub Actions. 
 
---- 
 
 ## App Purpose 
 
 The primary objective of this application is to provide a simple and efficient way for users to compile a list of songs, add personal ratings and comments, and view the entire playlist in a clean, organised format. 
+
 
 ## Key Features 
 
@@ -60,7 +59,6 @@ Engaging Visuals: The app features a beautifully animated gradient background f
 
 These features are designed to provide a user-friendly and engaging platform for exploring and managing a personal music playlist. The Playlist Manager focuses on core functionality to deliver a straightforward and effective user experience. 
 
---- 
 
 ## Design Considerations 
 
@@ -74,7 +72,6 @@ The Playlist Manager was meticulously crafted based on these key considerations:
 
 **Performance**: Code optimisation was a top priority to ensure fast response times and minimal battery consumption. 
 
---- 
 
 ## GitHub and GitHub Actions 
 
@@ -84,7 +81,6 @@ This project was managed using **GitHub** for version control. Regularly committ
 
 The workflow automatically builds and tests the project every time changes are pushed, simplifying the process of delivering the final APK/AAB files for submission. 
 
---- 
 
 ## App Screenshots 
 
@@ -98,26 +94,25 @@ The Detailed View Screen:
 App running on the emulator in Android Studio:
 
 
-
---- 
-
 ## Challenges and Learnings 
 
 During the development of this project, I encountered several challenges, including: 
 
-**Challenge 1**: Seriously struggled to push the code to the classroom repository. 
-   - **Solution**: I used the terminal on MacOS and found a way to push the code. 
-   - **Learning**: This taught me the fundamentals of Git version control beyond the GUI, providing a deeper understanding of branches, commits, and remotes.
+**Challenge 1**: Seriously struggled to push the code to the classroom repository.
+
+- **Solution**: I used the terminal on MacOS and found a way to push the code. 
+   
+- **Learning**: This taught me the fundamentals of Git version control beyond the GUI, providing a deeper understanding of branches, commits, and remotes.
   
 
 **Challenge 2**: Debugging the initial code in the early days of the app due to an error in the Android Manifest 
-   - **Solution**: Had to declare the activities: (android:name=""). 
+
+- **Solution**: Had to declare the activities: (android:name=""). 
 
 **Learning**: This reinforced the importance of the Android Manifest as the central configuration file for the app and the need to ensure all components are properly declared.
 
 From these challenges, I learned important lessons in debugging and pushing the code to the Github repository. 
 
---- 
 
 ## Future Enhancements 
 
@@ -129,7 +124,6 @@ While the current version of the app provides core playlist management functiona
 
 **Sorting and Filtering**: Add options to sort the playlist alphabetically by song title or artist, or to filter it based on rating.
 
---- 
 
 ## References 
 
@@ -161,6 +155,4 @@ While the current version of the app provides core playlist management functiona
 
 14. [Mr. Jitendra/Author Unknown], n.d. How to Change Android Studio | Theme | Font Family | Font Size. [video online] Available at: https://youtu.be/hALSwU7g36M [Accessed 27 April 2025]. 
 
-15.[Google Fonts/Author Unknown], n.d. Poppins. [online font] Available at: https://fonts.google.com/specimen/Poppins [Accessed 20 April 2025]. 
-
---- 
+15. [Google Fonts/Author Unknown], n.d. Poppins. [online font] Available at: https://fonts.google.com/specimen/Poppins [Accessed 20 April 2025]. 
