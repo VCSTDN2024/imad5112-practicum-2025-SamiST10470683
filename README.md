@@ -1,6 +1,6 @@
 ### Basic Information
 
-**Instert App Name Here**
+**Playlist Manager**
 - **Developer**: [Sami EL Naamani]
 - **Student Number**: [ST10470683]
 - **Group**: [1]
